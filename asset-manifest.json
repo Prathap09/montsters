@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/montsters-shit/static/css/main.8739ec78.chunk.css",
+    "main.js": "/montsters-shit/static/js/main.c6a73a0a.chunk.js",
+    "main.js.map": "/montsters-shit/static/js/main.c6a73a0a.chunk.js.map",
+    "runtime-main.js": "/montsters-shit/static/js/runtime-main.94c76e3d.js",
+    "runtime-main.js.map": "/montsters-shit/static/js/runtime-main.94c76e3d.js.map",
+    "static/js/2.e2ce35a1.chunk.js": "/montsters-shit/static/js/2.e2ce35a1.chunk.js",
+    "static/js/2.e2ce35a1.chunk.js.map": "/montsters-shit/static/js/2.e2ce35a1.chunk.js.map",
+    "index.html": "/montsters-shit/index.html",
+    "precache-manifest.e5b5364ba00d1f007526cff771057fb8.js": "/montsters-shit/precache-manifest.e5b5364ba00d1f007526cff771057fb8.js",
+    "service-worker.js": "/montsters-shit/service-worker.js",
+    "static/css/main.8739ec78.chunk.css.map": "/montsters-shit/static/css/main.8739ec78.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94c76e3d.js",
+    "static/js/2.e2ce35a1.chunk.js",
+    "static/css/main.8739ec78.chunk.css",
+    "static/js/main.c6a73a0a.chunk.js"
+  ]
+}
